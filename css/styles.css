@@ -120,7 +120,7 @@ hr {
     text-decoration: underline;
 }
 
-#premire{
+#html{
     max-width:18%;
     height:auto;
     float: right;
@@ -133,6 +133,16 @@ hr {
     height:auto;
     float: left;
     margin-right: 30px;
+    margin-bottom: 100px;
+}
+
+#css{
+    max-width:18%;
+    height:18%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    scale: 80%;
 }
 
 #pfp{
